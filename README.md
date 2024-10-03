@@ -1,3 +1,4 @@
 # E-Pavati
-This is Full-Stack Java Project using Spring Boot 
-For Frontend it uses react and backend spring boot hibernate and for database it uses mysql
+-E Pavati is an innovative invoice processing system designed to streamline the management of vendor details, product amounts, and purchase dates. 
+-Developed using Spring Boot, Hibernate, and React, the application leverages REST APIs for seamless data interactions. 
+-This project performs CRUD operations in the database and covers core and advanced java concepts.
